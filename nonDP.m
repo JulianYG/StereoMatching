@@ -1,5 +1,4 @@
 % Yuan Gao, Rice University
-% Elec 345, Midterm, Mar 18th
 
 close all
 %clear all
